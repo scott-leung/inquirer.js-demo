@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+  },
+  "devDependencies": {
+    "inquirer": "^6.4.1"
+  }
+}
